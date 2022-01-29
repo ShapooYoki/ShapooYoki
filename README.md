@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShapooYoki
+- 👋 Hi, I’m @shytea
 - 👀 I’m interested in web-hacking
 - 🌱 I’m currently learning spooling
 - 💞️ I’m looking to collaborate on chinese telegram bot
